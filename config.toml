@@ -1,4 +1,4 @@
-baseurl = "https://ocr.sh"
+baseURL = "https://ocr.sh"
 languageCode = "en-us"
 title = "Open Container Registry"
 theme = "hugo_theme_pickles"
