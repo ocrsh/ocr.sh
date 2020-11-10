@@ -1,0 +1,21 @@
+baseurl = "https://ocr.sh"
+languageCode = "en-us"
+title = "Open Container Registry"
+theme = "hugo_theme_pickles"
+
+# Copyright notice. This is displayer in the footer.
+copyright = "&copy; Mya Pitzeruse 2020"
+
+# Google Analytics API key.
+googleAnalytics = ""
+
+[params]
+  paginate = 10
+  custom_css = ["/css/custom.css"]
+  # twitter = "Your Twitter username"
+  github = "ocrsh"
+  # Short subtitle/tagline. This is displayed in the header.
+  subtitle = ""
+  # Logo image. This is displayed ogp image.
+  logo = "/path/to/logo"
+  favicon = "/path/to/favicon"
